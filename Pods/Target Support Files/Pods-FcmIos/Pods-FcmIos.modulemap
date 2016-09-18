@@ -1,0 +1,6 @@
+framework module Pods_FcmIos {
+  umbrella header "Pods-FcmIos-umbrella.h"
+
+  export *
+  module * { export * }
+}
